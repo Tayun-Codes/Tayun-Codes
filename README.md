@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tayun-Codes
 - 👀 I’m interested in games, fantasy novels, cats, and crafts
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning how to be a better podcast host!
 - 💞️ I’m looking to collaborate on ... nothing right now but send a request and let's chat!
 - 📫 How to reach me ... on LinkedIn!
 - 😄 Pronouns: she/her/hers
