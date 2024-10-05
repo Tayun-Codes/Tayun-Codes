@@ -5,12 +5,12 @@
 </p>
 <h1 align="center">👋 Hi, I’m Tayun, a web developer and software engineer </h1>
 <ul>
-<li>😄 Pronouns: she/her/hers</li>
-<li>⚡ Tech stack: MERN + Front-end (HTML5/CSS3/Javascript)</li>
-<li>👀 I’m interested in games, fantasy novels, cats, and crafts</li>
-<li>🌱 I’m currently learning how to be a better podcast host!</li>
-<li>💞️ I’m looking to collaborate on building widgets for Twitch</li>
-<li>📫 How to reach me ... on LinkedIn!</li>
+  <li>😄 Pronouns: she/her/hers</li>
+  <li>⚡ Tech stack: MERN + Front-end (HTML5/CSS3/Javascript)</li>
+  <li>👀 I’m interested in games, fantasy novels, cats, and crafts</li>
+  <li>🌱 I’m currently learning how to be a better podcast host!</li>
+  <li>💞️ I’m looking to collaborate on building widgets for Twitch</li>
+  <li>📫 How to reach me: on LinkedIn!</li>
 </ul>
 
 
@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/tayun-park/">
     <img src="https://img.shields.io/badge/LinkedIn-rgb(169%2C133%2C102)?style=for-the-badge&logoColor=%23DDE4B7">
   </a>
-  <a href="https://twitter.com/Tayun-Park" target="blank">
+  <a href="https://twitter.com/TayunCodes" target="blank">
     <img src="https://img.shields.io/badge/Twitter/X-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="rai__bread" />
   </a> 
 </p>
@@ -31,11 +31,11 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">CatHaus</h3>
-        <br />
+        <br/>
         <a target="_blank" href="https://cathaus.netlify.app/">
-            <img src="https://github.com/user-attachments/assets/63d6dd47-4797-40f2-baba-e67c357d9943" width="100%" alt="CatHaus"/>
+          <img src="https://github.com/user-attachments/assets/63d6dd47-4797-40f2-baba-e67c357d9943" width="100%" alt="CatHaus"/>
         </a>
-        <br />
+        <br/>
         <p align="center">
           <a href="https://cathaus.netlify.app/" target="_blank">
             <img src="https://img.shields.io/badge/Live-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7"/>
@@ -48,7 +48,7 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Steven Rhyse Photofolio</h3>
-        <br />
+        <br/>
       <a target="_blank" href="https://stevenrhyse.netlify.app/">
             <img src="https://github.com/user-attachments/assets/1e3bdd23-874c-4760-98be-42337e4ab4d0" width="100%"  alt="Steven Rhyse Photofolio"/>
         </a>
@@ -92,17 +92,9 @@
   <a href="https://www.linkedin.com/in/tayun-park/">
     <img src="https://img.shields.io/badge/LinkedIn-rgb(169%2C133%2C102)?style=for-the-badge&logoColor=%23DDE4B7">
   </a>
-  <a href="https://twitter.com/Tayun-Park" target="blank">
+  <a href="https://twitter.com/TayunCodes" target="blank">
     <img src="https://img.shields.io/badge/Twitter/X-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="rai__bread" />
   </a> 
 </p>
-<!---
-Tayun-Codes/Tayun-Codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!---Tayun-Codes/Tayun-Codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.--->
-
-<!--
-Files
-![Github Logo](https://github.com/user-attachments/assets/ec4c0ba1-1843-472c-a55b-40b5dbe72a8b)
--->
-
-
