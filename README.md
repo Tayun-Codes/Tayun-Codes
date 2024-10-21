@@ -1,5 +1,5 @@
 <p align="center">
-  <a target="_blank" href="https://raisadorzback.netlify.app/">
+  <a target="_blank" href="https://tayunpark.netlify.app/">
   <img height="200" alt="Tayun Park Software Engineer" src="https://github.com/user-attachments/assets/be4860a9-4fcb-41fc-a955-07a538a88331">  
   </a>
 </p>
@@ -15,14 +15,14 @@
 
 
 <p align="center"> 
-  <a href="https://tayunpark.netlify.app/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="Website">
+  <a href="https://tayunpark.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/tayun-park/">
-    <img src="https://img.shields.io/badge/LinkedIn-rgb(169%2C133%2C102)?style=for-the-badge&logoColor=%23DDE4B7">
+    <img src="https://img.shields.io/badge/LinkedIn-rgb(169%2C133%2C102)?style=for-the-badge&logoColor=%23DDE4B7"  alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/TayunCodes" target="blank">
-    <img src="https://img.shields.io/badge/Twitter/X-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="rai__bread" />
+  <a href="https://twitter.com/TayunCodes" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter/X-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="Twitter" />
   </a> 
 </p>
 
@@ -33,12 +33,12 @@
       <h3 align="center">CatHaus</h3>
         <br/>
         <a target="_blank" href="https://cathaus.netlify.app/">
-          <img src="https://github.com/user-attachments/assets/63d6dd47-4797-40f2-baba-e67c357d9943" width="100%" alt="CatHaus"/>
+          <img src="https://github.com/user-attachments/assets/63d6dd47-4797-40f2-baba-e67c357d9943" width="100%" alt="Preview of the HomePage of CatHaus"/>
         </a>
         <br/>
         <p align="center">
           <a href="https://cathaus.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7"/>
+            <img src="https://img.shields.io/badge/Live-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="Live view of CatHaus"/>
           </a>  
 <!--           <a href="https://cathaus.netlify.app/" target="_blank">
             <img src="https://img.shields.io/badge/Github-rgb(169%2C133%2C102)?style=for-the-badge&logoColor=%23DDE4B7"/>
@@ -54,7 +54,7 @@
         </a>
         <p align="center">
           <a href="https://stevenrhyse.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7"/>
+            <img src="https://img.shields.io/badge/Live-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="Live view of Photofolio"/>
           </a>  
 <!--           <a href="https://stevenrhyse.netlify.app/" target="_blank">
             <img src="https://img.shields.io/badge/Github-rgb(169%2C133%2C102)?style=for-the-badge&logoColor=%23DDE4B7"/>
@@ -86,14 +86,14 @@
 
 <h3 align="center">Connect</h3>
 <p align="center"> 
-  <a href="https://tayunpark.netlify.app/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="Website">
+  <a href="https://tayunpark.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/tayun-park/">
-    <img src="https://img.shields.io/badge/LinkedIn-rgb(169%2C133%2C102)?style=for-the-badge&logoColor=%23DDE4B7">
+    <img src="https://img.shields.io/badge/LinkedIn-rgb(169%2C133%2C102)?style=for-the-badge&logoColor=%23DDE4B7"  alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/TayunCodes" target="blank">
-    <img src="https://img.shields.io/badge/Twitter/X-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="rai__bread" />
+  <a href="https://twitter.com/TayunCodes" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter/X-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="Twitter" />
   </a> 
 </p>
 <!---Tayun-Codes/Tayun-Codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
