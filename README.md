@@ -8,9 +8,9 @@
   <li>😄 Pronouns: she/her/hers</li>
   <li>⚡ Tech stack: MERN + Front-end (HTML5/CSS3/Javascript)</li>
   <li>👀 I’m interested in games, fantasy novels, cats, and crafts</li>
-  <li>🌱 I’m currently learning how to be a better podcast host!</li>
+  <li>🌱 I’m currently building an automated video clipping program to make long-form video for short-form platforms</li>
   <li>💞️ I’m looking to collaborate on building widgets for Twitch</li>
-  <li>📫 How to reach me: on LinkedIn!</li>
+  <li>📫 How to reach me: on <a href="https://www.linkedin.com/in/tayun-park/">LinkedIn!</a></li>
 </ul>
 
 
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-rgb(169%2C133%2C102)?style=for-the-badge&logoColor=%23DDE4B7"  alt="LinkedIn">
   </a>
   <a href="https://twitter.com/TayunCodes" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter/X-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter/X-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="Twitter">
   </a> 
 </p>
 
@@ -94,7 +94,16 @@
   </a>
   <a href="https://twitter.com/TayunCodes" target="_blank">
     <img src="https://img.shields.io/badge/Twitter/X-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="Twitter" />
-  </a> 
+  </a>
+  <a href="<MongoDB_URL>" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="<Node.js_URL>" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="<Express.js_URL>" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  </a>
 </p>
 <!---Tayun-Codes/Tayun-Codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.--->
