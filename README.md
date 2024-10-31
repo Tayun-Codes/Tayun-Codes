@@ -8,9 +8,9 @@
   <li>😄 Pronouns: she/her/hers</li>
   <li>⚡ Tech stack: MERN + Front-end (HTML5/CSS3/Javascript)</li>
   <li>👀 I’m interested in games, fantasy novels, cats, and crafts</li>
-  <li>🌱 I’m currently building an automated video clipping program to make long-form video for short-form platforms</li>
+  <li>🌱 I’m currently building an automated clipping program to turn long-form video into short-form content</li>
   <li>💞️ I’m looking to collaborate on building widgets for Twitch</li>
-  <li>📫 How to reach me: on <a href="https://www.linkedin.com/in/tayun-park/">LinkedIn!</a></li>
+  <li>📫 How to reach me: on <a href="https://www.linkedin.com/in/tayun-park/">LinkedIn</a> or <a href="https://x.com/TayunCodes">Twitter</a>!</li>
 </ul>
 
 
